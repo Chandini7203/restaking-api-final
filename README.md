@@ -108,7 +108,8 @@ nodemon server.js
 ## 🧠 Author
 
 **Chandini** 
-Project submitted for [Restomart Internship Task]
+
+Project submitted for [Restomart Internship]
 
 ## 📁 License
 
